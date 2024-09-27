@@ -1,4 +1,4 @@
-# Implement various encryption schemes.
+# Implement Various Encryption Schemes
 - RSA
 - KYBER
 - CKKS
