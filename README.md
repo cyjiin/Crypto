@@ -1,8 +1,5 @@
 # Implement Various Encryption Schemes
-- RSA
-- KYBER
-- CKKS
-- BGV
-- FV
-- FHEW
-- TFHE
+- PKE
+- SKE
+- HE
+- PQC
